@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="W1" path="W1.html"/>
+   <appContext helpID="W2" path="W2.html"/>
+   <appContext helpID="w3" path="w3.html"/>
+   <appContext helpID="W4" path="W4.html"/>
+   <appContext helpID="W41" path="W41.html"/>
+   <appContext helpID="W42" path="W42.html"/>
+   <appContext helpID="W5" path="W5.html"/>
+   <appContext helpID="W51" path="W51.html"/>
+   <appContext helpID="W52" path="W52.html"/>
+   <appContext helpID="W6" path="W6.html"/>
+   <appContext helpID="W61" path="W61.html"/>
+   <appContext helpID="W62" path="W62.html"/>
+   <appContext helpID="W7" path="W7.html"/>
+   <appContext helpID="W71" path="W71.html"/>
+   <appContext helpID="W72" path="W72.html"/>
+   <appContext helpID="W8" path="W8.html"/>
+   <appContext helpID="W9" path="W9.html"/>
+</map>

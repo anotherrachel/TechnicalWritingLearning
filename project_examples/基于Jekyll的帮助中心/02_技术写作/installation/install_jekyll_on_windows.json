@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Install Ruby",
+        "id": "title2"
+    },
+    {
+        "title": "Install Ruby Development Kit",
+        "id": "title3"
+    }
+    {
+        "title": "Install the Jekyll gem",
+        "id": "title4"
+    },
+    {
+        "title": "Installing dependencies through Bundler",
+        "id": "title5"
+    },
+    {
+        "title": "Install Bundler",
+        "id": "title6"
+    },
+    {
+        "title": "Git Clients for Windows",
+        "id": "title7"
+    },
+    {
+        "title": "Serve the Jekyll Documentation theme",
+        "id": "title8"
+    },
+    {
+        "title": "Resolving Github Metadata errors",
+        "id": "title9"
+    }
+]

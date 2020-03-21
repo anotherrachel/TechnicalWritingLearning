@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Requirements",
+        "id": "title2"
+    },
+    {
+        "title": "Step 1: Create a local repository for your Jekyll site",
+        "id": "title3"
+    }
+    {
+        "title": "Step 2: Install Jekyll using Bundler",
+        "id": "title4"
+    },
+    {
+        "title": "Step 3 (optional): Generate Jekyll site files",
+        "id": "title5"
+    },
+    {
+        "title": "Step 4: Build your local Jekyll site",
+        "id": "title6"
+    },
+    {
+        "title": "Keeping your site up to date with the GitHub Pages gem",
+        "id": "title7"
+    },
+    {
+        "title": "Next steps: Configuring Jekyll",
+        "id": "title8"
+    },
+    {
+        "title": "Further reading",
+        "id": "title9"
+    }
+]

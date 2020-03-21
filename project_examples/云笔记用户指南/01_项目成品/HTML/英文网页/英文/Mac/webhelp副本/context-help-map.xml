@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="intro" path="intro.html"/>
+   <appContext helpID="start" path="start.html"/>
+   <appContext helpID="note1" path="note1.html"/>
+   <appContext helpID="createnote" path="createnote.html"/>
+   <appContext helpID="noteempty" path="noteempty.html"/>
+   <appContext helpID="mdnote" path="mdnote.html"/>
+   <appContext helpID="share_note" path="share%20note.html"/>
+   <appContext helpID="sharebyemial" path="sharebyemial.html"/>
+   <appContext helpID="sharetogroup" path="sharetogroup.html"/>
+   <appContext helpID="groupknowhow" path="groupknowhow.html"/>
+   <appContext helpID="tagconcept" path="tagconcept.html"/>
+   <appContext helpID="tagtask" path="tagtask.html"/>
+   <appContext helpID="tagstask2" path="tagstask2.html"/>
+   <appContext helpID="search" path="search.html"/>
+   <appContext helpID="searchquick" path="searchquick.html"/>
+   <appContext helpID="searchcustom" path="searchcustom.html"/>
+   <appContext helpID="restore" path="restore.html"/>
+   <appContext helpID="more" path="more.html"/>
+</map>

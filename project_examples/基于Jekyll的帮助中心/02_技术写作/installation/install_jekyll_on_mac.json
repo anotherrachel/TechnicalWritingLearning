@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Ruby and RubyGems",
+        "id": "title2"
+    },
+    {
+        "title": "Install Homebrew",
+        "id": "title3"
+    }
+    {
+        "title": "Install Ruby through Homebrew",
+        "id": "title4"
+    },
+    {
+        "title": "Install the Jekyll gem",
+        "id": "title5"
+    },
+    {
+        "title": "Installing dependencies through Bundler",
+        "id": "title6"
+    },
+    {
+        "title": "Serve the Jekyll Documentation theme",
+        "id": "title7"
+    },
+    {
+        "title": "Resolve ¡°No Github API authentication¡± errors",
+        "id": "title8"
+    }
+]

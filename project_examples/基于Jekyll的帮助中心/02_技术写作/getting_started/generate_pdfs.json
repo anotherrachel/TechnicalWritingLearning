@@ -1,0 +1,48 @@
+[
+    {
+        "title": "PDF overview",
+        "id": "title2"
+    },
+    {
+        "title": "Demo",
+        "id": "title3"
+    },
+    {
+        "title": "1. Set up Prince",
+        "id": "title4"
+    },
+    {
+        "title": "2. Create a new configuration file",
+        "id": "title5"
+    },
+    {
+        "title": "3. Titlepage.html and tocpage.html entries",
+        "id": "title6"
+    },
+    {
+        "title": "4. Customize headers and footers",
+        "id": "title7"
+    },
+    {
+        "title": "5. Customize and run the PDF script",
+        "id": "title8"
+    },
+    {
+        "title": "6. Add conditions for new builds",
+        "id": "title9"  
+    },
+    {
+        "title": "7. Add a download button",
+        "id": "title10"  
+    },
+    {
+        "title": "JavaScript conflicts",
+        "id": "title11" 
+    },
+    {
+        "title": "Overriding Bootstrap Print Styles",
+        "id": "title12"  
+    }
+]
+
+

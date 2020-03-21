@@ -1,0 +1,14 @@
+[
+  {
+    "title": "View  by email",
+    "id": "title1"
+  },
+  {
+    "title": "View in your repository",
+    "id": "title2"
+  },
+  {
+    "title": "View in the command line",
+    "id": "title3"
+  }
+]

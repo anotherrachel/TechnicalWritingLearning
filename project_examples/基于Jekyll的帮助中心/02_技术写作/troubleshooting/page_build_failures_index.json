@@ -1,0 +1,30 @@
+[
+  {
+    "title": ""Page build failed: Missing docs folder"",
+    "id": "title1"
+  },
+  {
+    "title": ""Page build failed: Markdown errors"",
+    "id": "title2"
+  },
+  {
+    "title": ""Page build failed: Config file error"",
+    "id": "title3"
+  },
+  {
+    "title": ""Page build failed: File does not exist in includes directory"",
+    "id": "title4"
+  },
+  {
+    "title": ""Page build failed: File is not properly UTF-8 encoded"",
+    "id": "title5"
+  },
+  {
+    "title": ""Page build failed: Invalid post date"",
+    "id": "title6"
+  },
+    {
+    "title": ""Page build failed: Invalid YAML in data file"",
+    "id": "title7"
+  }
+]

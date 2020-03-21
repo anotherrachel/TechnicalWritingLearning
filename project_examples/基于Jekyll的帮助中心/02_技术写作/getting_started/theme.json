@@ -1,0 +1,22 @@
+[
+    {
+        "title": "1. Download the theme",
+        "id": "title2"
+    },
+    {
+        "title": "2. Install Jekyll",
+        "id": "title3"
+    }
+    {
+        "title": "3. Install Bundler",
+        "id": "title4"
+    },
+    {
+        "title": "4. Option 1: Build the Theme (without the github-pages gem)",
+        "id": "title5"
+    },
+    {
+        "title": "4. Option 2: Build the Theme (with the github-pages gem)",
+        "id": "title6"
+    }
+]
