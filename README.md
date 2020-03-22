@@ -1,10 +1,10 @@
 # Technical Writing Learning Path
 
-This learning path designed to provide you with some comprehensive knowledge about technical writing, including tutorials to help you get started.
+This learning path designed to provide you with some comprehensive knowledge about technical writing.
 
-You don't necessarily need to follow the path. Neither do you need to read all of these materials.
+You don't necessarily need to follow the path. Neither do you need to read all of these materials. Read whichever topic intrigues or confuses you first, and keep reading if you have further doubts.
 
-Read whichever topic intrigues or confuses you first, and keep reading if you have further doubts.
+For beginners, it's recommended to pick one [course](#courses) to follow along.
 
 > **Note:**
 >
@@ -13,7 +13,7 @@ Read whichever topic intrigues or confuses you first, and keep reading if you ha
 ## Table of Contents
 
 * [Courses](#courses)
-* [Technical Documentation Examples](#technical-documentation-examples)
+* [Examples](#examples)
 * [Introduction](#introduction)
 * [Style Guide](#style-guide)
 * [Content Planning](#content-planning)
@@ -29,10 +29,10 @@ Read whichever topic intrigues or confuses you first, and keep reading if you ha
 ## Courses
 
 * [Technical Writing](https://www.icourse163.org/course/SEU-1206693808) 🇨🇳⭐️ **ONGOING**
-* [Technical Writing | Google Developers](https://developers.google.com/tech-writing)
 * [科多思技术写作短视频教程合辑](http://v.qq.com/vplus/526cdf8a8017e5e6f9a10ae0a7d3f9b1?page=cover) ⭐️
+* [技术传播教程](https://techcomm-book.readthedocs.io/zh_CN/latest/) ⭐️
 
-## Technical Documentation Examples
+## Examples
 
 * [Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/)
 * [Apple Developer 文档](https://developer.apple.com/cn/documentation/)
@@ -69,7 +69,7 @@ Read whichever topic intrigues or confuses you first, and keep reading if you ha
 * [Modular writing best practices](https://docs.sdl.com/LiveContent/content/en-US/SDL%20Tridion%20Docs-v2/GUID-976B22EC-6B82-43AC-ACED-2588329C7014)
 * [Modular documentation: How to make both writers and users happy](https://opensource.com/article/17/9/modular-documentation)
 
-**Minimalist（最小化写作）**
+**Minimalism（极简写作）**
 
 > Help users get started fast.
 
